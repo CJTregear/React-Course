@@ -1,0 +1,5 @@
+.myList {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(5em, 1fr));
+  gap: 1px;
+}
